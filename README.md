@@ -11,9 +11,10 @@ An independent digital archive dedicated to preserving discontinued AI software,
 
 | Product | Developer | Category | Status |
 | :--- | :--- | :--- | :--- |
-| Vercept Vy | Vercept | Computer Use | Discontinued |
-| ChatGPT Atlas | OpenAI | AI Browser | Under review |
-| Sora | OpenAI | Video Generation | Under review |
+| [Vercept Vy](archive/vercept-vy/) | Vercept | Computer Use | Discontinued |
+| [ChatGPT Atlas](archive/chatgpt-atlas/) | OpenAI | AI Browser | Discontinued |
+| [Sora](archive/openai-sora/) | OpenAI | Video Generation | Under review |
+
 
 ## Our Mission
 
