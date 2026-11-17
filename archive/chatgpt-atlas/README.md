@@ -71,7 +71,7 @@ ChatGPT Atlas was an AI-powered web browser developed by OpenAI, integrating Cha
 
 ### Retirement Screen
 
-![Retirement Screen](screenshots/retirement-screen.jpeg)
+![Retirement Screen](screenshots/retirement-screen.png)
 
 *Captured by AI Graveyard on November 17, 2026.*
 
